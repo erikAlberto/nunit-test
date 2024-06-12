@@ -101,3 +101,5 @@ C:\Users\Erik Vargas\source\repos\TestProject1\TestProject1\bin\Debug\net8.0\sel
 C:\Users\Erik Vargas\source\repos\TestProject1\TestProject1\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
 C:\Users\Erik Vargas\source\repos\TestProject1\TestProject1\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
 C:\Users\Erik Vargas\source\repos\TestProject1\TestProject1\bin\Debug\net8.0\WebDriver.dll
+C:\Users\Erik Vargas\source\repos\TestProject1\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json
+C:\Users\Erik Vargas\source\repos\TestProject1\TestProject1\bin\Debug\net8.0\WebDriver.Support.dll
