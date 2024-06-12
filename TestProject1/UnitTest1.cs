@@ -17,7 +17,6 @@ namespace TestProject1
         [Test]
         public void Test1()
         {
-            //Assert.AreEqual(driver.FindElement(By.CssSelector(".btn-secondary")).GetAttribute("href"), "https://bit.ly/CrediseguroWhats");
             Assert.AreEqual(driver.FindElement(By.CssSelector(".btn-secondary")).GetAttribute("href"), "https://bit.ly/CrediseguroWhats");
         }
 
